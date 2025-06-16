@@ -1,1 +1,12 @@
-
+{
+  "Servers": [
+    {
+      "IP": "195.18.27.251:2302",
+      "ServerName": "E_X_E #1 | Cherno | PvP | Bots | Events",
+      "ImageKey": "1370677047336374433",
+      "ImageText": "DayZ E_X_E",
+      "DiscordLink": "https://discord.gg/DGMQyGffwF",
+      "AppId": "902256861179432992"
+    }
+  ]
+}
